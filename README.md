@@ -5,7 +5,7 @@
   _Esta App no funcionaría sin la ayuda de_
 
   * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código.
-  * [Android Studio](https://developer.android.com/studio/intro?hl=es-419) - Utilizado mayormente para emular una Interfaz de teléfono.
+  * [Android Studio](https://developer.android.com/studio/intro?hl=es-419) - Utilizado mayormente para emular la Interfaz de teléfono.
   * [Dart](https://dart.dev/) - Lenguaje de programación de código abierto, desarrollado por Google.
   * [Flutter](https://flutter.dev/) - SDK de código fuente abierto de desarrollo de aplicaciones móviles creado por Google, para crear interfaces de usuario para aplicaciones iOS y Android.
   * [Firebase](https://firebase.google.com/?hl=es) - Plataforma para el desarrollo de aplicaciones web y aplicaciones móviles lanzada en 2011 y adquirida por Google en 2014.
