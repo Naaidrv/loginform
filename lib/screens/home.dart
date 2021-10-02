@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
@@ -19,7 +17,6 @@ class _HomeState extends State<Home> {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     FirebaseFirestore.instance
         .collection("users")
@@ -46,30 +43,34 @@ class _HomeState extends State<Home> {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: <Widget>[
               SizedBox(
-                  height: 400,
+                  height: 300,
                   child: Image.asset(
                     "assets/logow.png",
                     fit: BoxFit.contain,
                   )),
               Text(
                 "Que gusto verte de nuevo!",
-                style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+                style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
               ),
               SizedBox(height: 10),
               Text(
-                "${loggedInUser.fisrtname} ${loggedInUser.secondname}",
+                "Hola, ${loggedInUser.fisrtname} ${loggedInUser.secondname} 😄",
                 style: TextStyle(
-                    color: Color(0xFF104599C), fontWeight: FontWeight.w500),
+                    color: Color(0xFF104599C),
+                    fontWeight: FontWeight.w500,
+                    fontSize: 24),
               ),
+              SizedBox(height: 10),
               Text(
                 "${loggedInUser.email}",
                 style: TextStyle(
                     color: Color(0xFF104599C), fontWeight: FontWeight.w500),
               ),
-              SizedBox(height: 15),
+              SizedBox(height: 35),
               ActionChip(
                   elevation: 5,
                   backgroundColor: Color(0xFF104599C),
+                  padding: EdgeInsets.fromLTRB(20, 15, 20, 15),
                   label: Text(
                     "Cerrar sesión",
                     style: TextStyle(
