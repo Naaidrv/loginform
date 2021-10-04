@@ -1,5 +1,5 @@
   # 📱 Login con Flutter & Firebase 📱
-  _Estoy dando mis primeros pasos con [Flutter](https://flutter.dev/), [Dart](https://dart.dev/), a esta lista se añadió: [Firebase](https://firebase.google.com/?hl=es). Esta es una aplicación es un formulario de inicio de sesión y registro de nuevo(s) usuario(s) sin fines de lucro y únicamente con el fin de aprender y poner en prática mis habilidades._
+  _Estoy dando mis primeros pasos con [Flutter](https://flutter.dev/), [Dart](https://dart.dev/), a esta lista se añadió: [Firebase](https://firebase.google.com/?hl=es). Esta es una aplicación es un formulario de inicio de sesión y registro de nuevo(s) usuario(s) solo con correo electrónico y contraseña, sin fines de lucro y únicamente con el fin de aprender y poner en prática mis habilidades._
   ## 🛠️ Construido con 🛠️
 
   _Esta App no funcionaría sin la ayuda de_
