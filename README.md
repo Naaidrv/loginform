@@ -20,7 +20,6 @@
   * [Cloud Firestore](https://pub.dev/packages/cloud_firestore/install)
   
   ## 📍 NOTA 📍
-
 _Si deseas descargar y trabajar con este respositorio no olvides que una vez abierto en Visual Studio Code o tu editor de preferencia, deberás correr en la terminal el siguiente comando:
 <code>flutter pub get</code> o <code>pub get</code>._
 
@@ -30,6 +29,12 @@ _Si deseas descargar y trabajar con este respositorio no olvides que una vez abi
 
   * **BackSlash Flutter** - *Diseño, desarrollo* - [BackSlash Flutter](https://www.youtube.com/channel/UCknAgO0AdG61Yd1G7D1Arxg)
   * **Naaid RV** - *Diseño, desarrollo y Documentación* - [Naaid RV](https://github.com/Naaidrv)
+  
+  
+  ## 📸 Capturas de pantalla | Funcionamiento 💻
+  
+  <img src = "assets/img%20(1).jpg" height= "400">
+  <img src = "assets/img.gif" height= "400">
 
   ## ✌ Si te gusta mi trabajo ✌
 
