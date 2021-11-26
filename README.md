@@ -33,8 +33,8 @@ _Si deseas descargar y trabajar con este respositorio no olvides que una vez abi
   
   ## 📸 Capturas de pantalla | Funcionamiento 💻
   
-  <img src = "assets/img%20(1).jpg" height= "400">
   <img src = "assets/img.gif" height= "400">
+  <img src = "assets/img%20(1).jpg" height= "400">
 
   ## ✌ Si te gusta mi trabajo ✌
 
